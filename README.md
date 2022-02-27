@@ -38,6 +38,7 @@ When I get to the second bonus, I got stuck acceessing 'key' value to new screen
 ### App Walkthrough GIF
 
 <img src="https://i.imgur.com/6nQbaR2.gif" width=250><br>
+<img src="http://g.recordit.co/dKececBszk.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
